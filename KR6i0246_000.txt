@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 禪要經
+#+DATE: 2015-08-30 20:13:54.995359
+#+PROPERTY: JUAN 0
