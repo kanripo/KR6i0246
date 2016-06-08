@@ -1,28 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:54.766463
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:02
 #+TITLE: 禪要經
 #+PROPERTY: CBETA_ID T15n0609
 #+PROPERTY: ID KR6i0246
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 609
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0246_T_000-0237c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0246_T_001-0237c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.609¶
-
- 《禪要經》¶
+No. 609¶
+《禪要經》¶
 ¶
 失譯人名在後漢錄¶
 
-訶欲品
-:PROPERTIES:
-:head: 訶欲品第一
-:END:
-¶
+* 訶欲品第一¶
 
 行者求道欲修定時，爾時法師應隨根相行¶
 四攝道，示教利喜、廣淨信戒。淨信戒已，次除¶
@@ -114,7 +109,7 @@ No.609¶
 　如我所惡厭，
 <pb:KR6i0246_T_001-0238c>¶
 　一切皆遠離，
-　知人避屎坑。¶
+　如人避屎坑。¶
 　汝身自嚴飾，
 　香花以瓔珞，¶
 　凡愚所貪愛，
@@ -125,7 +120,7 @@ No.609¶
 　如莊嚴廁舍。¶
 　汝脇肋著脊，
 　如椽依梁棟，¶
-　五藏在復內，
+　五藏在腹內，
 　不淨如屎篋。¶
 　我觀汝不淨，
 　猶如五色糞，¶
@@ -194,12 +189,12 @@ No.609¶
 　如鳥墮網羅。¶
 　人命甚速駛，
 　五馬不能追，¶
-　殘命日滅盡，
+　殘命日減盡，
 　各各自思惟。¶
 　恩愛正合會，
 　夫盛當有衰，¶
 　是故自拔出，
-　得道當來歸。」
+　得道當來歸。」」
 #+END_VERSE
-」¶
+¶
 《禪要經》
